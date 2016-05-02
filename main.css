@@ -27,11 +27,13 @@ h2 {
 	color: #860038;
 	margin: auto;
 	font-size: 18px;
-	list-style-type: none;
 	font-family: Helvetica, 'Helvetica Neue', sans-serif;
 	
 }
 
+ul {
+	list-style-type: none;
+}
 
 p {
 	border: 1px solid #000;
