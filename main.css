@@ -4,11 +4,8 @@ body {
 	text-align: center;
 	width: 100%;
 	background:fixed;
-        background-image: -o-linear-gradient(bottom, {color:#fad6ab}, {color:#cab1da} );
-        background-image: -moz-linear-gradient(bottom, {color:#fad6ab}, {color:#cab1da} );
-        background-image: -webkit-linear-gradient(bottom, {color:#fad6ab}, {color:#cab1da} );
-        background-image: -ms-linear-gradient(bottom, {color:#fad6ab}, {color:#cab1da} );
-        background-image: linear-gradient(bottom, {color:#fad6ab}, {color:#cab1da} );
+        background-image: url("http://pic.1fotonin.com//data/wallpapers/202/WDF_2405082.jpg");
+  background-size: cover;
 }
 
 h1 {
