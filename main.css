@@ -27,9 +27,8 @@ h2 {
 	color: #860038;
 	margin: auto;
 	font-size: 18px;
-	text-decoration: none;
+	list-style-type: none;
 	font-family: Helvetica, 'Helvetica Neue', sans-serif;
-	display: inline;
 	
 }
 
