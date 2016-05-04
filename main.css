@@ -1,7 +1,7 @@
 body {
 	margin: 30px;
 	text-align: center;
-	background-color: #ffdce1;
+	background-image: url ("https://wallpaperscraft.com/image/peach_basket_harvest_78253_1920x1080.jpg");
 	
 }
 
@@ -11,10 +11,6 @@ h1 {
 	font-size: 28px;
 	text-decoration: none;
 	font-family: 'Futura', sans-serif;
-}
-
-.backdrop {
-	background-image: url ("https://wallpaperscraft.com/image/peach_basket_harvest_78253_1920x1080.jpg");
 }
 
 h2 {
