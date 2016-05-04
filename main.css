@@ -11,6 +11,9 @@ h1 {
 	font-size: 28px;
 	text-decoration: none;
 	font-family: 'Futura', sans-serif;
+}
+
+.backdrop {
 	background-image: url ("https://wallpaperscraft.com/image/peach_basket_harvest_78253_1920x1080.jpg");
 }
 
