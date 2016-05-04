@@ -5,12 +5,11 @@ body {
 }
 
 h1 {
-	border: 1px solid #000;
 	padding: 40px;
 	margin: auto;
 	font-size: 28px;
 	text-decoration: none;
-	font-family: Helvetica, 'Helvetica Neue', sans-serif;
+	font-family: 'Futura', sans-serif;
 }
 
 h2 {
@@ -22,12 +21,11 @@ h2 {
 }
 
 .navigation {
-	border: 1px solid #000;
 	padding: 30px;
 	color: #860038;
 	margin: auto;
 	font-size: 18px;
-	font-family: Helvetica, 'Helvetica Neue', sans-serif;
+	font-family: 'Futura', sans-serif;
 	
 }
 
@@ -36,7 +34,6 @@ ul {
 }
 
 p {
-	border: 1px solid #000;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	padding-left: 60px;
@@ -44,7 +41,7 @@ p {
 	margin: auto;
 	font-size: 18px;
 	text-decoration: none;
-	font-family: Helvetica, 'Helvetica Neue', sans-serif;
+	font-family: 'Futura', sans-serif;
 
 }
 
