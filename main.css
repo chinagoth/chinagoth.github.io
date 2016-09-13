@@ -1,14 +1,14 @@
 body {
 	margin: 30px;
 	text-align: left;
-	background-color: #F9E3CB;
+	background-color: ##d4c8b8;
 	
 }
 
 h1 {
 	padding: 40px;
 	margin: auto;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: normal;
 	font-family: 'Helvetica', sans-serif;
 }
@@ -17,7 +17,7 @@ h1 {
 	padding: 30px;
 	color: #000;
 	margin: auto;
-	font-size: 18px;
+	font-size: 12px;
 	font-family: 'Helvetica', sans-serif;
 	
 }
@@ -32,7 +32,7 @@ p {
 	padding-left: 60px;
 	padding-right: 60px;
 	margin: auto;
-	font-size: 18px;
+	font-size: 12px;
 	font-family: 'Helvetica', sans-serif;
 
 }
