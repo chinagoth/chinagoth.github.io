@@ -45,7 +45,24 @@ p {
 
 }
 
-a {
-	color: #333333;	
+a:link {
+	color: #000;
+    	text-decoration: none;
 }
+
+a:visited {
+	color: #000;
+    	text-decoration: none;
+}
+
+a:hover {
+	color: #000;
+    	text-decoration: underline;
+}
+
+a:active {
+	color: #000;
+    	text-decoration: none;
+}
+
 
