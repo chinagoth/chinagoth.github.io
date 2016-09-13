@@ -1,6 +1,6 @@
 body {
 	margin: 30px;
-	text-align: center;
+	text-align: left;
 	background-color: #F9E3CB;
 	
 }
@@ -10,7 +10,7 @@ h1 {
 	margin: auto;
 	font-size: 28px;
 	text-decoration: none;
-	font-family: 'Futura', sans-serif;
+	font-family: 'Arial', sans-serif;
 }
 
 h2 {
@@ -42,7 +42,7 @@ p {
 	margin: auto;
 	font-size: 18px;
 	text-decoration: none;
-	font-family: 'Futura', sans-serif;
+	font-family: 'Arial', sans-serif;
 
 }
 
